@@ -4,8 +4,8 @@ Imputation pipeline for GWAS summary statistics.
 
 ## Processing phases
 
-- *Phase 1*: Download and convert 1000 genomes phase 3 into the appropriate format.
-- *Phase 2*: Impute summary statistics using Impg-Summary.  
+- **Phase 1**: Download and convert 1000 genomes phase 3 into the appropriate format.
+- **Phase 2**: Impute summary statistics using Impg-Summary.  
 
 ## Tools in use.
 
